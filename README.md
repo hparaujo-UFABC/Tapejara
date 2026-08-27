@@ -1,6 +1,9 @@
 # Tapejara
 ## Open-source quadcopter drone for research and teaching
 
+<img width="1147" height="737" alt="tapejaraProject03" src="https://github.com/user-attachments/assets/19f743a0-99f4-43ad-9910-c50aed2a4c60" />
+
+
 🇧🇷
 Projeto de um drone quadricóptero como plataforma de ensino e pesquisa.
 O projeto da PCB foi realizado com a ferramenta EasyEDA Pro [https://easyeda.com/] e os primeiros protótipos foram fabricados na JLCPCB [https://jlcpcb.com/].
