@@ -1,5 +1,5 @@
 # Tapejara
-Open-source quadcopter drone for research and teaching
+## Open-source quadcopter drone for research and teaching
 
 🇧🇷
 Projeto de um drone quadricóptero como plataforma de ensino e pesquisa.
