@@ -3,6 +3,7 @@
 
 <img width="1147" height="737" alt="tapejaraProject03" src="https://github.com/user-attachments/assets/19f743a0-99f4-43ad-9910-c50aed2a4c60" />
 
+[Primeiro Voo] (https://youtu.be/oPYGQzMy-3I)
 
 🇧🇷
 Projeto de um drone quadricóptero como plataforma de ensino e pesquisa.
