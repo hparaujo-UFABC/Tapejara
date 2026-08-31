@@ -1,7 +1,7 @@
 🇧🇷
 # Tapejara 1
 
-Primeiro [voo](https://youtu.be/oPYGQzMy-3I) do Tapejara. Veja a [documentação](hardware/tapejaraBoard_v1.pdf) — Esquemático, layout da PCB e visualização 3D.
+Primeiro [voo](https://youtu.be/oPYGQzMy-3I) do Tapejara. Veja a [documentação](./tapejaraBoard_v1.pdf) — Esquemático, layout da PCB e visualização 3D.
 
 > Errata: A pinagem do conector da câmera OV2640 está espelhada: 1 <-> 24 | 24 <-> 1. Não tente conectar a câmera, pois isso causará um curto-circuito na PCB.
 > Uma versão corrigida será disponibilizada em uma atualização futura (em breve).
