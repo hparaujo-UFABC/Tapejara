@@ -1,20 +1,18 @@
 
-![tapejaraProject02.png](https://image.easyeda.com/oshwhub/pullImage/bb901b24ff3f4992817f9b3c5bbfd46f.png)
-
-# Video link：
+# Tapejara 1
 First [flight](https://youtu.be/oPYGQzMy-3I) of Tapejara
 
 &gt; Errata: The pinout of the OV2640 camera connector is mirrored: 1 &lt;-&gt; 24 | 24 &lt;-&gt; 1. Do not try to connect the camera or it will cause a short-circuit in the PCB.
 &gt; A corrected version will be provided in a future update (coming soon).
 &gt; All other functionalities remain unchanged. The prototype has been flight-tested via line-of-sight.
 
-# Project introduction
+## Project introduction
 The Tapejara tpj-01 is a quadcopter-style micro-drone equipped with an OV2640 camera and IMU, barometer, and magnetometer sensors. It utilizes an ESP32 microprocessor to collect sensor data, calculate control actions, and provide telemetry.
 The drone can be controlled remotely via a mobile app (currently under development).
 The tpj-01 was designed to serve as an educational research platform for experimenting with flight firmware, control systems, and data collection. For this reason, the printed circuit board (PCB) allows for expansion via a daughterboard (shield) where additional sensors can be installed.
 By the way,  "Tapejara" is a genus of pterosaur that lived in Brazil during the Cretaceous period.
 
-# Project Parameters
+## Project Parameters
 * MCU: ESP32-S3 WROOM-1-N16R8
 * OV2640 camera
 * IMU: MPU-6050
@@ -29,7 +27,7 @@ By the way,  "Tapejara" is a genus of pterosaur that lived in Brazil during the 
     * Thickness: 1.2 mm
 * Remote control via Mobile App and Wi-Fi
 
-# Hardware description
+## Hardware description
 This project consists of the following parts:
 * The MCU for flight control (PID + PWM), data sensor collection and telemetry;
 * Power management: the primary energy source for the system is an 1S battery that supply the rotors directly. A Buck-Boost regulator generates a stable 3.3V for the MCU and the sensors. The camera also needs LDO regulators for 1.3V and 2.8V, both derived from the 3.3V regulator. The battery is protected against polarity inversion.
@@ -50,21 +48,21 @@ After uploading the firmware, the drone must be configured using the remote cont
 # Finished product display
 3D view of the PCB (top and bottom).
 
-![3D_Tapejara_brd_v1_Top.png](https://image.easyeda.com/oshwhub/pullImage/84055942a0d44c3785745380b575fa5f.png)
+<img width="2160" height="1709" alt="3D_Tapejara_brd_v1_Top" src="https://github.com/user-attachments/assets/421dc2c3-f4a4-4919-8600-31786bd22774" />
 
-![3D_Tapejara_brd_v1_Bott.png](https://image.easyeda.com/oshwhub/pullImage/bb00693431cf4b5ea2bb941bae3684c6.png)
+<img width="2160" height="1789" alt="3D_Tapejara_brd_v1_Bott" src="https://github.com/user-attachments/assets/33a80232-4820-4825-9d8d-95a0a3bbe5e2" />
+
 
 PCB weight of only 12g.
 
+<img width="844" height="1090" alt="drone32g" src="https://github.com/user-attachments/assets/2ab68ff3-4629-4a88-acba-85b6dc3b0c10" />
 
-![dronePeso.jpg](https://image.easyeda.com/oshwhub/pullImage/f70d11cf850c429787053734a16b63e1.jpg)
 
 Assembled Drone weight of only 32.36g.
 
+<img width="899" height="956" alt="weightAssembl" src="https://github.com/user-attachments/assets/6ef2cb93-e24e-4ff2-85cd-5bc254b083ed" />
 
-![weightAssembl.jpg](https://image.easyeda.com/oshwhub/pullImage/e069e166afaf4b939e28e9a06cdd0070.jpg)
 
 Final image.
 
-
-![tapejaraAssembled.jpg](https://image.easyeda.com/oshwhub/pullImage/8ac1b6b6c46a4e6fad9aa9e8dc1dbaad.jpg)
+<img width="1023" height="696" alt="tapejaraAssembled" src="https://github.com/user-attachments/assets/c155216f-b9ae-489a-8fc9-76faab441f1f" />
