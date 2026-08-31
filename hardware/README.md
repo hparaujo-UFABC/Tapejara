@@ -73,7 +73,7 @@ Imagem final.
 # Tapejara 1
 First [flight](https://youtu.be/oPYGQzMy-3I) of Tapejara.
 
-See the [documentation](hardware/tapejaraBoard_v1.pdf) -- Schematic, PCB layout and 3D view.
+See the [documentation](./tapejaraBoard_v1.pdf) -- Schematic, PCB layout and 3D view.
 
 >Errata: The pinout of the OV2640 camera connector is mirrored: 1 &lt;-&gt; 24 | 24 &lt;-&gt; 1. Do not try to connect the camera or it will cause a short-circuit in the PCB.
 >A corrected version will be provided in a future update (coming soon).
