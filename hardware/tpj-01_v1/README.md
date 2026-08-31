@@ -22,7 +22,7 @@ A propósito, "Tapejara" é um gênero de pterossauro que viveu no Brasil durant
 * IMU: MPU-6050
 * Barômetro: BMP280
 * Magnetômetro: QMC5883P
-* Motores: coreless 8520 (2x CW + 2x CCW)
+* Motores: coreless 7016 / 7020 / 8020 / 8520 (precisa lixar a PCB p/ encaixar o motor) : 2x CW + 2x CCW
 * Diâmetro das hélices: 55 / 65 mm (2x CW + 2x CCW)
 * Bateria: 1S (3.7V) | 500 mAh
 * PCB (X-Frame):
@@ -91,7 +91,7 @@ By the way,  "Tapejara" is a genus of pterosaur that lived in Brazil during the 
 * IMU: MPU-6050
 * Barometer: BMP280
 * Magnetometer: QMC5883P
-* Rotors: coreless 8520 (2x CW + 2x CCW)
+* Rotors: 7016 / 7020 / 8020 / 8520 coreless motors (requires sanding the PCB to accommodate the motor): 2x CW + 2x CCW
 * Propellers Diameter: 55 / 65 mm (2x CW + 2x CCW)
 * Battery: 1S (3.7V) | 500 mAh
 * PCB (X-Frame):
