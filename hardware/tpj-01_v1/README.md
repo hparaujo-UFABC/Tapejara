@@ -1,7 +1,11 @@
 🇧🇷
 # Tapejara 1
 
-Primeiro [voo](https://youtu.be/oPYGQzMy-3I) do Tapejara. Veja a [documentação](./tapejaraBoard_v1.pdf) — Esquemático, layout da PCB e visualização 3D.
+Primeiro [voo](https://youtu.be/oPYGQzMy-3I) do Tapejara.
+
+Veja a [documentação](./tapejaraBoard_v1.pdf) — Esquemático, layout da PCB e visualização 3D.
+
+[Link](https://oshwlab.com/hparaujo.ufabc/project_sygmsikm?registerLang=en) do projeto no [OSHWLab](https://oshwlab.com/).
 
 > Errata: A pinagem do conector da câmera OV2640 está espelhada: 1 <-> 24 | 24 <-> 1. Não tente conectar a câmera, pois isso causará um curto-circuito na PCB.
 > Uma versão corrigida será disponibilizada em uma atualização futura (em breve).
@@ -74,6 +78,8 @@ Imagem final.
 First [flight](https://youtu.be/oPYGQzMy-3I) of Tapejara.
 
 See the [documentation](./tapejaraBoard_v1.pdf) -- Schematic, PCB layout and 3D view.
+
+Project [Link](https://oshwlab.com/hparaujo.ufabc/project_sygmsikm?registerLang=en) on [OSHWLab](https://oshwlab.com/).
 
 >Errata: The pinout of the OV2640 camera connector is mirrored: 1 &lt;-&gt; 24 | 24 &lt;-&gt; 1. Do not try to connect the camera or it will cause a short-circuit in the PCB.
 >A corrected version will be provided in a future update (coming soon).
