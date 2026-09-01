@@ -5,8 +5,6 @@
 
 [Primeiro Voo](https://youtu.be/oPYGQzMy-3I) do Tapejara 1.
 
-[Link](https://oshwlab.com/hparaujo.ufabc/project_sygmsikm?registerLang=en) do projeto no [OSHWLab](https://oshwlab.com/).
-
 🇧🇷
 Projeto de um drone quadricóptero como plataforma de ensino e pesquisa.
 O projeto da PCB foi realizado com a ferramenta EasyEDA Pro [https://easyeda.com/] e os primeiros protótipos foram fabricados na JLCPCB [https://jlcpcb.com/].
